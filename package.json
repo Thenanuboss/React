@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "navigator",
+=======
+  "name": "event",
+>>>>>>> 6c5035926886805b4e6ac1793b0528187f7c15d9
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +15,12 @@
   },
   "dependencies": {
     "react": "^19.0.0",
+<<<<<<< HEAD
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.5.0"
+=======
+    "react-dom": "^19.0.0"
+>>>>>>> 6c5035926886805b4e6ac1793b0528187f7c15d9
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
